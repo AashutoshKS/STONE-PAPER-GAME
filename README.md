@@ -12,6 +12,7 @@ This project is beginner-friendly and demonstrates the use of DOM manipulation, 
   🎨 Simple, responsive, and clean UI
 
 📂 Project Structure
+
 ├── images 📂
 ├── index.html   # Main HTML file  
 ├── index.css    # Styling for the game  
