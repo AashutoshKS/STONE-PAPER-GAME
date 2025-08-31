@@ -5,7 +5,7 @@ A simple and fun Stone Paper Scissors game built using HTML, CSS, and JavaScript
 This project is beginner-friendly and demonstrates the use of DOM manipulation, event handling, and basic game logic in JavaScript.
 
 ## 🎮 Live Demo
-    [Play Here](https://aashutoshks.github.io/STONE-PAPER-GAME/)
+    https://aashutoshks.github.io/STONE-PAPER-GAME/
 
 
 🚀 Features
